@@ -11,7 +11,7 @@ I'm a **junior software developer** from Morocco 🇲🇦, passionate about codi
 - 🔭 I'm currently working on **42_transcendence**
 - 🌱 I'm currently learning **C++, Python, JavaScript, TypeScript**
 - 💬 Ask me about **web development, backend systems, and open source**
-- 📫 How to reach me: **mohamedlayrach434@gmail.com**
+- 📫 How to reach me: **mohamedlatrach434@gmail.com**
 
 ## 🛠️ Languages and Tools
 
